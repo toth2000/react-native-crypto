@@ -21,7 +21,7 @@
     "browserify-sign": "^4.0.4",
     "create-ecdh": "^4.0.0",
     "create-hash": "https://github.com/toth2000/createHash.git",
-    "create-hmac": "^1.1.0",
+    "create-hmac": "https://github.com/toth2000/createHmac.git",
     "diffie-hellman": "^5.0.0",
     "inherits": "^2.0.1",
     "pbkdf2": "3.0.8",
