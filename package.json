@@ -24,7 +24,7 @@
     "create-hmac": "https://github.com/toth2000/createHmac.git",
     "diffie-hellman": "^5.0.0",
     "inherits": "^2.0.1",
-    "pbkdf2": "3.0.8",
+    "pbkdf2": "https://github.com/toth2000/pbkdf2.git",
     "public-encrypt": "^4.0.0",
     "randomfill": "^1.0.3",
     "react-native-randombytes": "3.6.1"
